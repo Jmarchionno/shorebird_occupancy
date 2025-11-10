@@ -3,7 +3,7 @@
 #########################
 
 # set working directory
-setwd("/Users/joe/Desktop/R_projects/CH2_Occupancy")
+setwd("/Users/joe/Desktop/R_projects/CH2_Occupancy/shorebird_occupancy/data")
 list.files()
 
 # open libraries
